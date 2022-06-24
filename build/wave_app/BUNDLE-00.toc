@@ -1,0 +1,4 @@
+([('wave_app',
+   '/Users/joshuaneronha/Documents/Brown/Semester 8/ENGN '
+   '1735/wavegenerator/dist/wave_app',
+   'EXECUTABLE')],)
