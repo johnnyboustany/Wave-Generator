@@ -1,6 +1,5 @@
 <h1>Waveform Generator README</h1>
-<h4>authors: Johnny Boustany, Joshua Neronha</h4>
-<h5>Brown University School of Engineering</h5>
+<h4>Authors: Johnny Boustany, Joshua Neronha</h4>
 
 As part of our final project for ENGN 1735: Vibrations of Mechanical Systems, we wrote a Python-based app that is able to output a given frequency to both the left and right audio channels, which is the software component of our waveform generator; it allows the user to generate waveforms easily and on-demand.
 
