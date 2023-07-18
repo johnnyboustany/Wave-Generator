@@ -2,6 +2,7 @@
  '1735/wavegenerator/build/wave_app/wave_app.pkg',
  {'BINARY': 1,
   'DATA': 1,
+
   'EXECUTABLE': 1,
   'EXTENSION': 1,
   'PYMODULE': 1,
