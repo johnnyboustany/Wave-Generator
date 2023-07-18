@@ -3,7 +3,6 @@
 
 block_cipher = None
 
-
 a = Analysis(
     ['wave_app.py'],
     pathex=[],
